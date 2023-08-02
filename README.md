@@ -1,4 +1,4 @@
-# **Disaster-Tweet-prediction-ML**
+# **Disaster Tweet prediction, NLP**
 ## **Data Exploration**
 ### **Load the Data:**
 * Import the dataset into your programming environment (e.g., Python with libraries like Pandas, NumPy) or any other tools that you prefer.
